@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body {
+    color: black;
+}
+.body .divApp .radioBtn h2{
+    text-align: center;
+    margin-top: 100px;
+}
+.body .divApp .radioBtn p{
+    font-size: 25px;
+    font-weight: 500;
+}
+.body .divApp .radioBtn ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.body .divApp .radioBtn ul li{
+    font-size: 20px;
+    font-weight: 500;
+}
+.body .divApp .contact100-form .nhapKM,.nhapTG {
+    margin: 50px 0px;
+}
+.body .divApp .contact100-form .nhapKM .input100{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 100%;
+    
+}
+.body .divApp .contact100-form .nhapTG .input100{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 100%;
+    
+    
+}
+
+.body .divApp .contact100-form .wrap-contact100-form-btn .contact100-form-btn{
+    width: 150px;
+    border-radius: 15px;
+    padding:3px 0;
+    color: white;
+    background: linear-gradient( to right, #f44336, orange );
+}
+.body .divApp .dongia {
+    display: none;
+}
